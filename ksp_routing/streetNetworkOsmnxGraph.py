@@ -187,6 +187,6 @@ class StreetNetworkOsmnxGraph(UtilMixin):
             close=True,
             save=True,
             file_format='png', 
-            filename='_'.join([self.settings['city_name'], date, 'plot'])', 
+            filename='_'.join([self.settings['city_name'], date, 'plot']),
             dpi=300
         )
