@@ -1,0 +1,80 @@
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 TestNet FW 0.20 1.00 0.50 1569261.16 7808475.10 0.000 0.000 0.000 0.000
+# 2 TestNet FW 0.20 1.00 0.50 1569261.16 7808475.10 0.000 0.000 0.000 0.000
+# 3 SiouxFalls FW 0.02 0.10 2.00 4233808.02 7478232.79 0.000 0.000 0.000 0.000
+# 4 SiouxFalls COL 0.02 0.10 2.00 7276936.23 7276936.23 1.894 90.651 0.000 0.000
+# 5 SiouxFalls DSD 0.02 0.10 2.00 118629133.22 11973710.08 0.000 0.000 2.082 45.420
+# 6 SiouxFalls MIX 0.02 0.10 1.05 103969358.67 11852522.44 0.979 36.058 2.392 46.320
+# 7 SiouxFalls MIX 0.02 0.10 1.10 103971219.67 11734384.12 1.165 37.324 2.385 45.855
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 TestNet FW 0.20 1.00 0.50 1569261.16 7808475.13 0.000 0.000 0.000 0.000
+# 2 TestNet FW 0.20 1.00 0.50 1569261.16 7808475.13 0.000 0.000 0.000 0.000
+# 3 SiouxFalls FW 0.02 0.10 2.00 4233808.02 7478232.76 0.000 0.000 0.000 0.000
+# 4 SiouxFalls COL 0.02 0.10 2.00 7276936.23 7276936.23 1.894 90.651 0.000 0.000
+# 5 SiouxFalls DSD 0.02 0.10 2.00 118629133.22 11973709.92 0.000 0.000 2.082 45.420
+# 6 SiouxFalls MIX 0.02 0.10 1.05 103969358.67 11852522.42 0.979 36.058 2.392 46.320
+# 7 SiouxFalls MIX 0.02 0.10 1.10 103971219.67 11734384.14 1.165 37.324 2.385 45.855
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 TestNet FW 0.20 1.00 0.50 1569261.16 7808475.13 0.000 0.000 0.000 0.000
+# 2 TestNet FW 0.20 1.00 0.50 1569261.16 7808475.13 0.000 0.000 0.000 0.000
+# 3 SiouxFalls FW 0.02 0.10 2.00 4233808.02 7478232.76 0.000 0.000 0.000 0.000
+# 4 SiouxFalls COL 0.02 0.10 2.00 7276936.23 7276936.23 1.894 90.651 0.000 0.000
+# 5 SiouxFalls DSD 0.02 0.10 2.00 118629133.22 11973709.92 0.000 0.000 2.082 45.420
+# 6 SiouxFalls MIX 0.02 0.10 1.05 103969358.67 11852522.42 0.979 36.058 2.392 46.320
+# 7 SiouxFalls MIX 0.02 0.10 1.10 103971219.67 11734384.14 1.165 37.324 2.385 45.855
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 Barcelona FW 0.00 0.00 0.00 1265779.89 1365508.61 0.000 0.000 0.000 0.000
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 SiouxFalls FW 0.00 0.00 0.00 4233808.02 7478232.76 0.000 0.000 0.000 0.000
+# 2 SiouxFalls COL 0.00 0.00 2.00 7276936.23 7276936.23 1.894 90.651 0.000 0.000
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 SiouxFalls FW 0.00 0.00 0.00 4233808.02 7478232.76 0.000 0.000 0.000 0.000
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 SiouxFalls FW 0.00 0.00 0.00 7478232.76 7478232.76 0.000 0.000 0.000 0.000
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 SiouxFalls SO 0.00 0.00 0.00 7205892.72 7205892.72 0.000 0.000 0.000 0.000
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 SiouxFalls FW 0.00 0.00 0.00 4233808.02 7478232.76 0.000 0.000 0.000 0.000
+# 2 SiouxFalls COL 0.00 0.00 100.00 7208489.65 7208489.65 2.337 96.511 0.000 0.000
+# 3 SiouxFalls SO 0.00 0.00 0.00 7205892.72 7205892.72 0.000 0.000 0.000 0.000
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 SiouxFalls FW 0.00 0.00 0.00 4233808.02 7478232.76 0.000 0.000 0.000 0.000
+# 2 SiouxFalls COL 0.00 0.00 100.00 7208489.65 7208489.65 2.337 96.511 0.000 0.000
+# 3 SiouxFalls SO 0.00 0.00 0.00 7205892.72 7205892.72 0.000 0.000 0.000 0.000
+# 4 Barcelona FW 0.00 0.00 0.00 1265779.89 1365508.61 0.000 0.000 0.000 0.000
+# 5 Barcelona SO 0.00 0.00 0.00 1334853.43 1334853.43 0.000 0.000 0.000 0.000
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 SiouxFalls FW 0.00 0.00 0.00 4233808.02 7478232.76 0.000 0.000 0.000 0.000
+# 2 SiouxFalls COL 0.00 0.00 100.00 7208489.65 7208489.65 2.337 96.511 0.000 0.000
+# 3 SiouxFalls SO 0.00 0.00 0.00 7205892.72 7205892.72 0.000 0.000 0.000 0.000
+# 4 Barcelona FW 0.00 0.00 0.00 1265779.89 1365508.61 0.000 0.000 0.000 0.000
+# 5 Barcelona SO 0.00 0.00 0.00 1334853.43 1334853.43 0.000 0.000 0.000 0.000
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 SiouxFalls FW 0.00 0.00 0.00 4233808.02 7478232.76 0.000 0.000 0.000 0.000
+# 2 SiouxFalls COL 0.00 0.00 100.00 7208489.65 7208489.65 2.337 96.511 0.000 0.000
+# 3 SiouxFalls SO 0.00 0.00 0.00 7205892.72 7205892.72 0.000 0.000 0.000 0.000
+# 4 Barcelona FW 0.00 0.00 0.00 1265779.89 1365508.61 0.000 0.000 0.000 0.000
+# 5 Barcelona SO 0.00 0.00 0.00 1334853.43 1334853.43 0.000 0.000 0.000 0.000
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 SiouxFalls FW 0.00 0.00 0.00 4233808.02 7478232.76 0.000 0.000 0.000 0.000
+# 2 SiouxFalls COL 0.00 0.00 100.00 7208489.65 7208489.65 2.337 96.511 0.000 0.000
+# 3 SiouxFalls SO 0.00 0.00 0.00 7205892.72 7205892.72 0.000 0.000 0.000 0.000
+# 4 Barcelona FW 0.00 0.00 0.00 1265779.89 1365508.61 0.000 0.000 0.000 0.000
+# 5 Barcelona SO 0.00 0.00 0.00 1334853.43 1334853.43 0.000 0.000 0.000 0.000
+
+ no | name | algo | theta | market | tolerance | objective | cost | mean_n_path | mean_path_cost | mean_n_route | mean_route_cost
+# 1 Braess FW 0.00 0.00 0.00 386.00 552.04 0.000 0.000 0.000 0.000
+# 2 Braess SO 0.00 0.00 0.00 498.04 498.04 0.000 0.000 0.000 0.000

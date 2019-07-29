@@ -1,0 +1,25 @@
+﻿  esx.cpp
+c:\users\mfolini\desktop\ksp2\src\ksp\model\graph.hpp(14): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  multipass.cpp
+c:\users\mfolini\desktop\ksp2\src\ksp\model\graph.hpp(14): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  onepass.cpp
+c:\users\mfolini\desktop\ksp2\src\ksp\model\graph.hpp(14): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  onepass_plus.cpp
+c:\users\mfolini\desktop\ksp2\src\ksp\model\graph.hpp(14): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  skyline.cpp
+c:\users\mfolini\desktop\ksp2\src\ksp\model\graph.hpp(14): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  svp_plus.cpp
+c:\users\mfolini\desktop\ksp2\src\ksp\model\graph.hpp(14): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  bindings.cpp
+c:\users\mfolini\desktop\ksp2\src\ksp\bindings.cpp(1): fatal error C1083: Cannot open include file: 'pybind11/pybind11.h': No such file or directory
+  ksp.cpp
+c:\users\mfolini\desktop\ksp2\src\ksp\ksp.cpp(7): fatal error C1083: Cannot open include file: 'boost/regex.hpp': No such file or directory
+  main.cpp
+c:\users\mfolini\desktop\ksp2\src\ksp\model\graph.hpp(14): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  graph.cpp
+c:\users\mfolini\desktop\ksp2\src\ksp\model\graph.hpp(14): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  astar.cpp
+c:\users\mfolini\desktop\ksp2\src\ksp\model\graph.hpp(14): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  dijkstra.cpp
+c:\users\mfolini\desktop\ksp2\src\ksp\model\graph.hpp(14): fatal error C1083: Cannot open include file: 'boost/functional/hash.hpp': No such file or directory
+  Generating Code...

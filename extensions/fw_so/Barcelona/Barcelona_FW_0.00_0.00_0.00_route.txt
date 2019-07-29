@@ -1,0 +1,19 @@
+<METADATA>
+<File Name> ./Barcelona/Barcelona_FW_0.00_0.00_0.00_route.txt
+<Number of Pairs> 7922
+<Number of Zones> 110
+<theta | lambda> 0.000000 | 0.000000
+<stoch | determ> 0.000000 | 0.000000
+<distant tolerance> 0.000000
+<optimal objective> 1265779.885518
+<system cost> 1365508.605427
+
+<ROUTES>
+<PATHS>
+~ Origin | Destination | Flow | Cost
+
+
+
+
+<Input Total Flows> 184679.561000
+<Output Total Flows> 0.000000

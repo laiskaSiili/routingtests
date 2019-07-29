@@ -1,0 +1,23 @@
+~ How to write a script file: 
+~ (1) In a script file, any line starts with "~" is ignored. 
+~ (2) Each line specifies a traffic assignment problem. 
+~ (3) There are 10 columns in each line: 
+~     (a) case_name: the name of the folder containing the network data;
+~     (b) algorithm: traffic assignment algorithms:
+~                FW: Frank-Wolf
+~               COL: column generation
+~               MSA: method of successive average
+~               DSD: disaggregated simplicial decomposition
+~               MIX: mixed stochastic user equilibrium (SUE) and system optimal (SO)
+~     (c) line_search_eps: convergence criterion of linear search
+~     (d) obj_converg_eps: convergence criterion of objective function
+~     (e) flow_converg_eps: convergence criterion of link flows
+~         (Note that the computation process terminates if and only if the results meet all the three criteria.)
+~     (f) theta: parameter of perception error of SUE
+~     (g) stoch_part: proportion of travelers with SUE behavior
+~     (h) distant_tol: tolerance of travel distance multiplier (for travelers acting in accordance with SO principle)
+~ (4) A sample script file is shown as follows. 
+
+~ Columns: case_name | algorithm | line_search_eps | obj_converg_eps | flow_converg_eps | theta | stoch_part | distant_tol
+Braess	FW	1e-8	1e-4	1e-4	0.0	0.0	0.0
+Braess	SO	1e-8	1e-4	1e-4	0.0	0.0	0.0

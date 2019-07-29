@@ -1,0 +1,16 @@
+<METADATA>
+<File Name> ./Braess/Braess_SO_0.00_0.00_0.00_flow.txt
+<Number of Links> 5
+<theta | lambda> 0.000000 | 0.000000
+<stoch | determ> 0.000000 | 0.000000
+<distant tolerance> 0.000000
+<optimal objective> 498.039545
+<system cost> 498.039545
+
+<LINKS>
+~ Init node | Term node | Flow | Cost
+   1     3  3.001710  60.022212
+   1     4  2.998290  55.997779
+   3     2  2.998890  55.996578
+   3     4  0.002821  10.005643
+   4     2  3.001110  60.034216

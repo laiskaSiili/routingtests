@@ -1,0 +1,19 @@
+<METADATA>
+<File Name> ./SiouxFalls/SiouxFalls_SO_0.00_0.00_0.00_route.txt
+<Number of Pairs> 576
+<Number of Zones> 24
+<theta | lambda> 0.000000 | 0.000000
+<stoch | determ> 0.000000 | 0.000000
+<distant tolerance> 0.000000
+<optimal objective> 7205892.721850
+<system cost> 7205892.721850
+
+<ROUTES>
+<PATHS>
+~ Origin | Destination | Flow | Cost
+
+
+
+
+<Input Total Flows> 360600.000000
+<Output Total Flows> 0.000000
