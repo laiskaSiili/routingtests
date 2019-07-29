@@ -174,11 +174,11 @@ class StreetNetworkOsmnxGraph(UtilMixin):
         )
         ox.plot.plot_graph(
             pdg,
-            fig_height=40, 
+            fig_height=40,
             fig_width=None,
             annotate=True,
-            node_color='#66ccff', 
-            node_size=15, 
+            node_color='#999999',
+            node_size=15,
             edge_color='#999999', 
             edge_linewidth=1, 
             edge_alpha=1, 
