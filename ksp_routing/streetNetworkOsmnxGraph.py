@@ -170,7 +170,7 @@ class StreetNetworkOsmnxGraph(UtilMixin):
         pdg = self.data['pseudo_digraph'].copy()
         nx.relabel_nodes(pdg, osmid_to_id0_dict, copy=False)
         ox.utils.config(
-            imgs_folder=str(edgelist.settings['workspace_path'])
+            imgs_folder=str(self.settings['workspace_path'])
         )
         ox.plot.plot_graph(
             pdg,
@@ -187,6 +187,6 @@ class StreetNetworkOsmnxGraph(UtilMixin):
             close=True,
             save=True,
             file_format='png', 
-            filename='_'.join([self.settings['city_name'], date, 'plot']),
+            filename='_'.join([self.settings['city_name'], self.settings['date_of_download'], 'plot']),
             dpi=300
         )
